@@ -1,0 +1,5 @@
+POST /repos/:owner/:repo/labels
+{
+  "name": "Incid",
+  "color": "f29513"
+}
